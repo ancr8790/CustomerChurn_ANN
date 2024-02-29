@@ -17,3 +17,6 @@ The Best Model trained had an accuracy score of 76, an F1-score of 77, and the f
 *  Epochs: 50
 *  Regularization: N/A
   
+<img width="409" alt="Screen Shot 2024-02-29 at 3 07 30 PM" src="https://github.com/ancr8790/CustomerChurn_ANN/assets/95835246/1298b9c0-f5cf-47f3-bfce-b87df5532a78">
+  
+<img width="187" alt="Screen Shot 2024-02-29 at 3 07 52 PM" src="https://github.com/ancr8790/CustomerChurn_ANN/assets/95835246/b6595e18-a7cd-4ee2-b89a-dbb3d891419e">
